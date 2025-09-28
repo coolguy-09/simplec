@@ -4,7 +4,7 @@ A super-lightweight libc clone.
 
 ## What is SimpleC?
 
-SimpleC is a super-lightweight, fast-compiling, freestanding libc clone for C development, targeted to mostly freestanding OS devs.
+SimpleC is a super-lightweight, fast-compiling, freestanding libc clone for C development, targeted to mostly devs looking for a libc alternative.
 
 ## Why SimpleC?
 ### 🪶 It's super-lightweight:
