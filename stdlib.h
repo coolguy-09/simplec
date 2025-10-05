@@ -123,4 +123,4 @@ static inline void ftoa(double value, char *buf, int precision) {
     *buf = '\0';
 }
 
-#endif
+#endif // SIMPLEC_STDLIB_H
