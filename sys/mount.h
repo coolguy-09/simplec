@@ -1,9 +1,9 @@
+// sys/mount.h clone - SimpleC
+
 #ifndef SIMPLEC_SYS_MOUNT_H
 #define SIMPLEC_SYS_MOUNT_H
 
-// ------------------------
 // Mount flags
-// ------------------------
 #define MS_RDONLY       1
 #define MS_NOSUID       2
 #define MS_NODEV        4
@@ -22,9 +22,7 @@
 #define MNT_EXPIRE      4
 #define UMOUNT_NOFOLLOW 8
 
-// ------------------------
 // Syscall wrappers
-// ------------------------
 #if defined(__i386__)
 
 // i386 mount syscall using register variables
