@@ -144,4 +144,4 @@ static inline double cos(double x) {
     return result;
 }
 
-#endif
+#endif // SIMPLEC_MATH_H
