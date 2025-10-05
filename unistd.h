@@ -204,4 +204,3 @@ static inline void _exit(int status) {
 #endif
 
 #endif // SIMPLEC_UNISTD_H
-
