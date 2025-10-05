@@ -1,3 +1,5 @@
+// unistd.h clone - SimpleC
+
 #ifndef SIMPLEC_UNISTD_H
 #define SIMPLEC_UNISTD_H
 
