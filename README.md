@@ -25,7 +25,7 @@ SimpleC is super-easy to import, just copy the .h file(s) to your current direct
 
 
 > [!WARNING]
-> When using SimpleC with the flag -nostdlib, there is a bug that where if you **don't** exit/return after a function, it will give a segmentation fault.
+> When using SimpleC with the flag -nostdlib, there is a bug that where if you **don't** exit after a function, it will give a segmentation fault.
 > To avoid this, you can simply use the exit() function by including the stdlib header like this:
 > ```C
 > #include "stdlib.h"
