@@ -109,4 +109,3 @@ static inline int umount(const char *target, int flags) {
 #endif
 
 #endif // SIMPLEC_SYS_MOUNT_H
-
