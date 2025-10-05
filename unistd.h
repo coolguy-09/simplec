@@ -12,9 +12,7 @@ typedef unsigned long size_t;
 typedef long off_t;
 typedef int pid_t;
 
-// ------------------------
 // Syscall wrappers
-// ------------------------
 #if defined(__i386__)
 
 // waitpid(pid_t, status, options)
