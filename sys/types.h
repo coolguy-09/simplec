@@ -1,3 +1,5 @@
+// sys/types.h clone - SimpleC
+
 #ifndef SIMPLEC_SYS_TYPES_H
 #define SIMPLEC_SYS_TYPES_H
 
@@ -44,4 +46,3 @@ typedef long long           blkcnt64_t;
 typedef long long           loff_t;
 
 #endif // SIMPLEC_SYS_TYPES_H
-
